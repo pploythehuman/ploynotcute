@@ -1,2 +1,6 @@
 print("Hello World")
 print("Let's setup Git")
+print("Mint is not cute")
+print("mint is kinda cute")
+print("mint is very cute")
+print("ap lit sucks")
